@@ -5,6 +5,10 @@ Module Program
         Console.WriteLine("Hello World!")
         Console.WriteLine("Hello World!")
         Console.WriteLine("Hello World!")
+        Console.WriteLine("Hello World!")
+        Console.WriteLine("Hello World!")
+        Console.WriteLine("Hello World!")
+        Console.WriteLine("123456")
 
     End Sub
 End Module
